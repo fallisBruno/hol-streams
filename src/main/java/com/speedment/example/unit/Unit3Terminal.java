@@ -178,6 +178,7 @@ public interface Unit3Terminal {
      *     5 = ["Spain", "stays"]
      * }
      *
+     *
      * @param stream with input elements
      * @return a new Map with words from the provided input Stream
      *         grouped by length
